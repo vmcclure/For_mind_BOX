@@ -1,0 +1,6 @@
+C:\Users\Дима\source\repos\area_Library\Areas_Library\bin\Debug\Areas_Library.dll
+C:\Users\Дима\source\repos\area_Library\Areas_Library\bin\Debug\Areas_Library.pdb
+C:\Users\Дима\source\repos\area_Library\Areas_Library\obj\Debug\Areas_Library.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\area_Library\Areas_Library\obj\Debug\Areas_Library.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\area_Library\Areas_Library\obj\Debug\Areas_Library.dll
+C:\Users\Дима\source\repos\area_Library\Areas_Library\obj\Debug\Areas_Library.pdb
