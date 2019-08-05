@@ -10,3 +10,16 @@ C:\Users\Дима\source\repos\area_Library\WindowsFormsApp2\obj\Debug\WindowsFo
 C:\Users\Дима\source\repos\area_Library\WindowsFormsApp2\bin\Debug\Areas_Library.dll
 C:\Users\Дима\source\repos\area_Library\WindowsFormsApp2\bin\Debug\Areas_Library.pdb
 C:\Users\Дима\source\repos\area_Library\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\bin\Debug\Areas_Library.dll
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\bin\Debug\Areas_Library.pdb
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Дима\Documents\GitHub\For_mind_BOX\areas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

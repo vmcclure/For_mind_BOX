@@ -39,19 +39,19 @@
             // comboBox1
             // 
             this.comboBox1.Items.AddRange(new object[] {
-            "круг",
-            "квадрат",
-            "прямоугольник",
-            "треугольник"});
+            "круг. 1 параметр",
+            "квадрат. 1 параметр",
+            "прямоугольник. 2 параметра",
+            "треугольник. 3 параметра"});
             this.comboBox1.Location = new System.Drawing.Point(46, 42);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
+            this.comboBox1.Size = new System.Drawing.Size(165, 21);
             this.comboBox1.TabIndex = 0;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.ComboBox1_SelectedIndexChanged);
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(217, 42);
+            this.textBox1.Location = new System.Drawing.Point(253, 42);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 1;
@@ -59,7 +59,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(368, 42);
+            this.textBox2.Location = new System.Drawing.Point(389, 42);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 2;
